@@ -34,9 +34,9 @@ description: 'The latest Tweets from VSC (@VSCPR). We are a band of strategists,
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/VSCPR'
-datePublished: '2015-09-18T21:56:10.578Z'
+datePublished: '2015-09-18T21:56:10.623Z'
 title: ''
-dateModified: '2015-09-18T21:55:37.027Z'
+dateModified: '2015-09-18T21:55:35.669Z'
 sourcePath: _posts/2015-09-18-the-latest-tweets-from-vsc-vscpr-we-are-a-band-of-strate.md
 published: true
 _type: Comment
