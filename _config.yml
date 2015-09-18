@@ -1,6 +1,7 @@
 name: 'VSC, THE BETA'
 favicon: null
 layout_spectrum: 0.23103
+typography_spectrum: 0.22759
 cta:
   domain: null
   bucket: null
